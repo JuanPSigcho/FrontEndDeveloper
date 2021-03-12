@@ -96,6 +96,7 @@ ul:hover {
   padding-left: 30px;
   width: 100%;
   position: relative;
+  
 }
 
 .carousel__container {
@@ -106,6 +107,7 @@ ul:hover {
   white-space: nowrap;
   margin: 70px 0px;
   padding-bottom: 10px;
+  
 }
 
 .carousel__container:hover .carousel-item {
@@ -123,7 +125,7 @@ ul:hover {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  width: 200px;
+  width: 250px;
   height: 250px;
   margin-right: 10px;
   font-size: 20px;
